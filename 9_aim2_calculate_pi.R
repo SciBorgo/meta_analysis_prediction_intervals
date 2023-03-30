@@ -1,6 +1,6 @@
 
 
-# Aim 3: Calculate prediction intervals for studies that report tau^2
+# Aim 2: Calculate prediction intervals for studies that report tau^2
 
 # Load data and filter for included studies
 d <- readRDS('data-prediction intervals.rds') %>%
