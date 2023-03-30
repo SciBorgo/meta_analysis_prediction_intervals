@@ -1,5 +1,4 @@
 # Meta-Analysis Prediction Interval Reporting in Sport and Exercise Medicine
-Abstract
 Aim: Prediction intervals are a useful measure of uncertainty for meta-analyses that capture the likely effect size of a new (similar) study based on the included studies. This study aimed to: (i) estimate the proportion of meta-analysis studies that report a prediction interval in sports medicine, using medicine as a comparator; and (ii) estimate the proportion of studies with a discrepancy between the reported confidence interval and a calculated prediction interval.
 
 Methods: We identified all meta-analysis published between 2012 and 2022 in 10 highly ranked sports medicine and eight medical journals. From these articles, 750 were randomly selected from each discipline. Articles that used a random effect meta-analysis model were included. We randomly selected one meta-analysis from each article to extract data from, which included the number of estimates, the pooled effect, and the confidence and prediction interval.
