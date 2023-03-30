@@ -1,6 +1,6 @@
 
 
-# Aim 2: papers that reported intervals.
+# Aim 1B: papers that reported intervals.
 # Load data and filter for included studies
 d <- readRDS('data-prediction intervals.rds')
 
